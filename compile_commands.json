@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/sbin/gcc",
+      "-c",
+      "-Iinclude",
+      "-O2",
+      "-o",
+      "fft_thing",
+      "main.c"
+    ],
+    "directory": "/home/andrew/Programs/C/fft_thing",
+    "file": "/home/andrew/Programs/C/fft_thing/main.c",
+    "output": "/home/andrew/Programs/C/fft_thing/fft_thing"
+  }
+]
